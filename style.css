@@ -16,7 +16,7 @@ h2{
 p{
   color:#e4e4e4;
   font-size: 1em;
-  font-family:garamond;
+  font-family:niconne;
   margin-left:1.5em;
 }
 h3{
@@ -46,11 +46,11 @@ img{
 }
 .pre-college{
   float: left;
-  width:48%;
+  width:50%;
 }
 .college-and-future{
   float: right;
-  width:48%;
+  width:50%;
 }
 @media screen and (max-width: 600px){
   .pre-college{
@@ -59,4 +59,8 @@ img{
   .college-and-future{
     width:100%;
   }
+}
+@font-face{
+  font-family: niconne;
+  src: url(https://fonts.google.com/specimen/Niconne);
 }
