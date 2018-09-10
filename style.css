@@ -47,12 +47,10 @@ img{
 .pre-college{
   float: left;
   width:48%;
-  padding:1em;
 }
 .college-and-future{
   float: right;
   width:48%;
-  padding:1em;
 }
 @media screen and (max-width: 600px){
   .pre-college{
