@@ -16,7 +16,7 @@ h2{
 p{
   color:#e4e4e4;
   font-size: 1em;
-  font-family:niconne;
+  font-family:Niconne;
   margin-left:1.5em;
 }
 h3{
@@ -61,6 +61,6 @@ img{
   }
 }
 @font-face{
-  font-family: niconne;
-  src: url(https://fonts.google.com/specimen/Niconne);
+  font-family:'Niconne', cursive;
+  src: url('https://fonts.googleapis.com/css?family=Niconne');
 }
