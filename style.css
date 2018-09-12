@@ -43,6 +43,7 @@ img{
   display:block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: auto;
 }
 .pre-college{
   float: left;
@@ -62,5 +63,5 @@ img{
 }
 @font-face{
   font-family:'Niconne', cursive;
-  src: url('https://fonts.googleapis.com/css?family=Niconne');
+  src:url(https://fonts.gstatic.com/s/niconne/v7/w8gaH2QvRug1_rTfnQKn2W4O.woff2)
 }
